@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: app3
-          image: oubakrimo70300/my-app:0.2
+          image: oubakrimo70300/my-app:latest
           ports:
             - containerPort: 80
