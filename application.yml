@@ -7,7 +7,7 @@ spec:
   project: default
   source:
     repoURL: https://github.com/Hicham-BelHoucin/test-argo-cd.git
-    tragetRevision: HEAD
+    targetRevision: HEAD
     path: dev
 
   destination:
